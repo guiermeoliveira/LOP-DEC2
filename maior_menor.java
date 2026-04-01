@@ -8,6 +8,8 @@ public class maior_menor {
 
     if (num1 == num2 && num2 == num3) {
         IO.println("Os números são iguais.");
+        IO.println("A média dos números é: " + media);
+        IO.println("A soma dos números é: " + soma);
     } else {
         int maior = num1;
         int menor = num1;
