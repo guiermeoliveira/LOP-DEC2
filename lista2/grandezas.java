@@ -1,4 +1,4 @@
-public class grandeza {
+public class grandezas {
     void main (){
         IO.println("------------------------------");
         IO.println("CÁLCULO DE GRANDEZAS ELÉTRICAS");
